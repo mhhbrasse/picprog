@@ -1,5 +1,4 @@
 git config --global credential.helper osxkeychain
-
 git init
 git add
 git commit
